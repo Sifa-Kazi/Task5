@@ -11,19 +11,19 @@ Titanic Dataset from kaggle
 ### Steps Performed
 
 1. Loaded the dataset and checked basic info (`.head()`, `.info()`, `.describe()`).
-2. 
-3. Explored categorical variables using `value_counts()` and visualizations.
-4. 
-5. Plotted:
+   
+2. Explored categorical variables using `value_counts()` and visualizations.
+ 
+3. Plotted:
    - Histogram (Age distribution)
    - Boxplot (Fare distribution)
    - Countplot (Survival by Gender)
    - Scatterplot (Age vs Fare by Survival)
    - Pairplot (numeric relationships)
    - Heatmap (correlation)
-6. Wrote observations for each visualization.
+4. Wrote observations for each visualization.
    
-7. Summarized key findings in a final summary.
+5. Summarized key findings in a final summary.
    
 ### Tools Used
 
